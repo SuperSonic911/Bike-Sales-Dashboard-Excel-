@@ -4,7 +4,7 @@ This data set was cleaned, analyzed and visualized using Excel.
 
 ### Final look at the dashboard:
 
-![Dashboard](Dashboard.jpg "Dashboard")
+![Dashboard](Dashboard2.0.jpg "Dashboard")
 
 This data has details of around 1000 users from different backgrounds and whether or not they purchased  a bike from the company that we want to make analysis for.
 
